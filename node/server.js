@@ -5,3 +5,4 @@ var server = http.createServer(function(req,res){
 })
 server.listen(8888);
 console.log('server is running @port:8888');
+// 回调函数
